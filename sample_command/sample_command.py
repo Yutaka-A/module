@@ -1,4 +1,4 @@
-def common_factor(a, b):
+def main(a, b):
     x = set(a) & set(b)
     print(list(x))
 
